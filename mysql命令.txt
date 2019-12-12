@@ -1,0 +1,19 @@
+https://www.bilibili.com/video/av53865503?p=6    郭导哔哩哔哩网址
+https://www.jianshu.com/p/7e3e2f814d22
+
+
+启动/停止：
+	systemctl start/restart/stop/status mysqld
+	service mysqld start/restart/stop/status
+连接：
+	mysql -hlocalhost -uroot -proot@123 -P3306
+	mysql -uroot -proot@123 -S /tmp/mysql.sock
+用户创建密码
+	mysqladmin -uroot -p password 123;
+
+查看当前用户：
+	select host,user,authentication_string from mysql.user;
+查看表结构：
+	desc mysql.user;
+查看连接线程：
+	show processlist;
