@@ -139,7 +139,7 @@ systemd启动方式(centos7以后的操作)
 
 #### 1.cs架构
 
-![cs架构](./img/mysql cs架构.png)
+![cs架构](<ttps://github.com/The0necc/summary/blob/master/img/mysql%20cs%E6%9E%B6%E6%9E%84.png>
 
 ```
 通过客户端连接到服务器去管理
