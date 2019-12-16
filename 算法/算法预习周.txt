@@ -1,0 +1,76 @@
+所有的领域都是一颗树。反复和刻意的练习，才能达到顶尖水平。
+
+数据结构和算法主要分为三大块：
+
+数据结构：
+	一维：
+		基础：
+			数组array 
+			链表linked list
+		高级：
+			栈stack 
+			队列queue 
+			双端队列deque 
+			集合set 
+			映射map(hash or map)，etc	
+
+	二维：从一维泛化出来的
+		基础：
+			树tree 
+			图graph
+		高级：
+			二叉搜索树binary search tree(红黑树，avl) 
+			堆heap 
+			并查集disjoint set 
+			字典树trie
+	特殊：	
+		位运算bitwise
+		布隆过滤器bllomfilter
+		缓存lru cache
+	
+	
+算法：
+	if-else
+	for while loop
+	递归：函数自己调用自己
+		注意：所有的算法最后就是去寻找重复单元是什么
+	搜索：
+		深度优先：depth first search
+		广度优先：breadth first search
+	动态规划：
+		dynamic progtamming
+	二分查找：
+		brnary search
+	贪心算法：greedy
+	数学：math 几何：geometry
+	
+职业训练：
+		拆分知识点，可以练习，反馈
+		反复重复练习
+		把所有可能的方法都想到
+五遍刷题法
+	第一遍
+		1.话五分钟读题(读题+想思路)最多十五分钟
+		2.直接看解法：
+			比较解法，比较解法的优劣性，背诵和默写好
+	第二遍：
+		马上自己写
+	第三遍：
+		过了24小时在进行练习
+	第四遍：
+		过一周之后在进行练习
+	第五遍：
+		面试的前几天进行练习
+
+做算法题最大的误区就是：只做一遍
+		
+	
+
+		
+		
+		
+		
+		
+		
+		
+		

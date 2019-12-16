@@ -21,3 +21,10 @@ mysql5.7：
 authentication_string
 ```
 
+##### 4.only_full_group_by
+
+```
+在使用group by的时候。select后面出现的列，必须在group by 后面出现，或者是用聚合函数包裹。
+防止出现一对多的情况出现，得到我们不想要的值。
+```
+

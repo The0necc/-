@@ -1,0 +1,7 @@
+电脑设置
+	google
+	iterm2+zsh
+	
+pycharm里面的插件：leetcode
+
+使用自顶向下的编程方式
